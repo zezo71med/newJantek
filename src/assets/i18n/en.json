@@ -1,0 +1,13 @@
+{
+  "home":{
+    "community": "Community",
+    "blog": "Blog",
+    "consultants": "Consultants",
+    "market": "Market",
+    "services": "Services"
+  },
+  "about": "About",
+  "work": "Work",
+  "blog": "Blog",
+  "contact": "Contact"
+}
